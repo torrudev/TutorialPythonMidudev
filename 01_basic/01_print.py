@@ -1,7 +1,7 @@
 ###
-#01 - print()
-#print() es el módulo que permite imprimir en consola
-#lo vamos a usar continuamente
+# 01 - print()
+# print() es el módulo que permite imprimir en consola
+# lo vamos a usar continuamente
 ###
 
 print("Primera impresión")

@@ -1,7 +1,7 @@
 ###
-#01 - types()
-#Tipos de datos en python:
-#int, float, complex, str, bool, NoneType, list, tuple, dict, set, range...
+# 02 - types()
+# Tipos de datos en python:
+# int, float, complex, str, bool, NoneType, list, tuple, dict, set, range...
 ###
 
 print("int:")
