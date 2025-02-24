@@ -50,6 +50,7 @@ if edad >= 18 or tiene_carnet:
 else:
     print("Que alguien llame a la policía curazoleña")
 
+print("\nNegar condición")
 es_fin_de_semana = False
 
 if not es_fin_de_semana:
