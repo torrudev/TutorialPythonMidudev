@@ -75,3 +75,28 @@ elif tiene_dinero:
     print("Puedes ir a la discoteca")
 else:
     print("Quedate en casa que hay que ahorrar")
+
+print("\nCondicionales booleanos:")
+numero = 5
+if numero: # True
+    print("Número distinto de cero.")
+
+numero = 0
+if numero: #False
+    print("No va a entrar aquí.")
+
+nombre = ""
+if nombre: # False
+    print("No va a entrar aquí tampoco.")
+
+numero = 3 #asignación
+if numero == 3: # comparación
+    print("número igual a 3")
+
+print("\nCondición ternaria:")
+# forma concisa if-else en una línea de código
+# [código cumple condición] if [condición] else [código no cumple condición]
+
+edad = 17
+msg = "Es mayor de edad" if edad >= 18 else "Es menor de edad"
+print(msg)
