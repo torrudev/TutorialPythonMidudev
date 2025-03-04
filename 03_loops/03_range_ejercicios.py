@@ -17,7 +17,7 @@ for impar in range(1, 21, 2):
 # Ejercicio 3: Imprimir múltiplos de 5
 # Imprime los múltiplos de 5 desde 5 hasta 50 (inclusive) usando un bucle for y range().
 print("\nEjercicio 3:")
-for c in range(5, 55, 5):
+for c in range(5, 51, 5):
     print(c)
 
 # Ejercicio 4: Imprimir números en orden inverso
@@ -25,6 +25,9 @@ for c in range(5, 55, 5):
 print("\nEjercicio 4:")
 for i in range(10):
     print(10 - i)
+
+for i in range(10, 0, -1):
+    print(i)
 
 # Ejercicio 5: Suma de números en un rango
 # Calcula la suma de los números del 1 al 100 (inclusive) usando un bucle for y range().
