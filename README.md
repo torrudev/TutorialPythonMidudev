@@ -15,3 +15,7 @@ Este repositorio contiene código, ejemplos prácticos y notas que he ido recopi
 - [Twitch midudev](https://www.twitch.tv/midudev)
 - [YouTube midudev](https://www.youtube.com/@midudev)
 - [Repositorio Github](https://github.com/midudev/curso-python)
+
+## 📄 Licencia
+
+Este repositorio se utiliza únicamente con fines educativos y personales. Todo el crédito del curso y los contenidos enseñados pertenece a Midudev.
