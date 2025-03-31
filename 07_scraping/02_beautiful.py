@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-# 1.Ventajas y desventajas de hacer scraping con beautifulsoup
+# 2.Ventajas y desventajas de hacer scraping con beautifulsoup
 # Ventajas:
 # - Extremadamente sencillo de implementar
 # - Rápido
