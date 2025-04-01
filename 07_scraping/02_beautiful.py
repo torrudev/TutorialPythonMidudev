@@ -9,6 +9,7 @@ import requests
 # Desventajas:
 # - No puede saltarse los paywalls ni los captchas
 # - No puedes navegar por la web
+# - No funciona con SPAs (Single Page Applications)
 
 url = 'https://www.apple.com/es/shop/buy-mac/macbook-air'
 
